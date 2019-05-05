@@ -1,9 +1,9 @@
 <h3>Basic ML stuffs</h3>
 
-03 Regression [WIP]<BR>
-04 Classification [LATER]<BR>
-05 Support Vector Machine SVM [LATER]<BR>
-06 Tree [LATER]<BR>
+03 Regression <BR>
+04 Classification <BR>
+05 Support Vector Machine SVM <BR>
+06 Tree [WIP]<BR>
 07 Ensemble Machine Learning [LATER]<BR>
 08 k-Nearest Neighbours kNN [LATER]<BR>
 09 Dimensionality Reduction [LATER]<BR>
