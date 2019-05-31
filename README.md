@@ -3,7 +3,7 @@
 03 Regression <BR>
 04 Classification <BR>
 05 Support Vector Machine SVM <BR>
-06 Tree [WIP]<BR>
+06 Tree <BR>
 07 Ensemble Machine Learning [LATER]<BR>
 08 k-Nearest Neighbours kNN [LATER]<BR>
 09 Dimensionality Reduction [LATER]<BR>
