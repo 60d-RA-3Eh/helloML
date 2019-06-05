@@ -5,7 +5,7 @@
 05 Support Vector Machine SVM <BR>
 06 Tree <BR>
 07 Ensemble Machine Learning <BR>
-08 k-Nearest Neighbours kNN [LATER]<BR>
+08 k-Nearest Neighbours kNN <BR>
 09 Dimensionality Reduction [LATER]<BR>
 10 Unsupervised Learning Clustering [LATER]
  
