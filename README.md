@@ -6,6 +6,6 @@
 06 Tree <BR>
 07 Ensemble Machine Learning <BR>
 08 k-Nearest Neighbours kNN <BR>
-09 Dimensionality Reduction [LATER]<BR>
+09 Dimensionality Reduction<BR>
 10 Unsupervised Learning Clustering [LATER]
  
