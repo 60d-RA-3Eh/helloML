@@ -10,4 +10,4 @@
 08 k-Nearest Neighbours kNN <BR>
 09 Dimensionality Reduction<BR>
 10 Unsupervised Learning Clustering <br>
-11 NLP and Text Pre-processing
+11 NLP,Text Pre-processing and Naive Bayes
