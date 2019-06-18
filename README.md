@@ -1,6 +1,6 @@
 <h3>Basic ML stuffs</h3>
 
-<a href="https://nbviewer.jupyter.org/github/60d-RA-3Eh/helloML/tree/master/">nbviewer.jupyter</a> [For Faster View]
+<a href="https://nbviewer.jupyter.org/github/60d-RA-3Eh/helloML/tree/master/" target="_blank">nbviewer.jupyter</a> [For Faster View]
 
 03 Regression <BR>
 04 Classification <BR>
